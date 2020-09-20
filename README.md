@@ -1,5 +1,4 @@
 ### Hi there 👋
-<hr/>
 <img src="https://github.com/harishv6665/harishv6665/blob/master/raw/coding.gif">
 
 - 🔭 I’m currently working on ...
