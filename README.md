@@ -1,5 +1,7 @@
 ### Hi there 👋
+<p align="center">
 <img src="https://github.com/harishv6665/harishv6665/blob/master/raw/coding.gif">
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
